@@ -3,7 +3,7 @@ package BOJ;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main_2504_괄호의값 {
+public class Main_2504_괄호의값_Important {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

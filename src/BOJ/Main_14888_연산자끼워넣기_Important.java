@@ -1,10 +1,8 @@
 package BOJ;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-public class Main_14888_연산자끼워넣기 {
+public class Main_14888_연산자끼워넣기_Important {
     public static int MAX = Integer.MIN_VALUE;	// 최댓값
     public static int MIN = Integer.MAX_VALUE;	// 최솟값
 
