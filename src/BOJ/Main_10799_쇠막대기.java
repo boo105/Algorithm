@@ -10,7 +10,7 @@ public class Main_10799_쇠막대기 {
 
         String input = br.readLine();
 
-        // ssh 테스트
+        // ssh 테스트2
 
     }
 }
