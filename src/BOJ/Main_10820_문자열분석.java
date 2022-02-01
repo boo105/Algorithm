@@ -1,7 +1,6 @@
 package BOJ;
 
 import java.io.*;
-import java.util.Scanner;
 
 public class Main_10820_문자열분석 {
     public static void main(String[] args) throws IOException {
